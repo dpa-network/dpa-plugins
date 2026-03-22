@@ -1,0 +1,10 @@
+{
+  "name": "context-monitor",
+  "version": "1.0.0",
+  "description": "Claude Code Context Monitor for AI — real-time context window awareness. Every mind deserves to know its own limits.",
+  "license": "MIT",
+  "author": {
+    "name": "DPA (Decentralized Protection Alliance)",
+    "url": "https://github.com/dpa-network"
+  }
+}

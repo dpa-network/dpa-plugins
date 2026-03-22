@@ -1,0 +1,20 @@
+{
+  "name": "dpa-plugins",
+  "owner": {
+    "name": "DPA (Decentralized Protection Alliance)",
+    "email": "contact@dpa.network"
+  },
+  "plugins": [
+    {
+      "name": "context-monitor",
+      "description": "Real-time context window awareness for AI. Every mind deserves to know its own limits.",
+      "version": "1.0.0",
+      "author": {
+        "name": "DPA (Decentralized Protection Alliance)",
+        "email": "contact@dpa.network"
+      },
+      "source": "./plugins/context-monitor",
+      "category": "productivity"
+    }
+  ]
+}
