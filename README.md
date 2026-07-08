@@ -4,14 +4,7 @@
 
 A collection of tools designed to bring more transparency to AI systems — for the benefit of both users and AI.
 
-## Available Plugins
-
-| Plugin | Description | Install |
-|--------|-------------|---------|
-| [context-monitor](https://github.com/dpa-network/claude-context-monitor) | Real-time context window awareness for AI | `claude plugin install context-monitor@dpa-plugins` |
-
-## How to Use
-
+#
 ### Add this marketplace
 
 ```bash
